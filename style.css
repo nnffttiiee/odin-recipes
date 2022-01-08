@@ -23,7 +23,12 @@ body{
     background-color:rgb(99, 96, 96);
 }
 .title{
-    margin-left:300px;
+    margin-left:150px;
     color:rgb(61, 60, 60);
     font: bold 50px Arial, Helvetica, sans-serif;
+}
+
+img{
+    width:500px;
+    height:auto;
 }
