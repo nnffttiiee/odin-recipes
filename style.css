@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(199, 197, 194);
+    color:rgb(105, 102, 102);
+
+    font: normal 18px Arial, Helvetica, sans-serif;
+
+    line-height:1.6em;
+
+    margin:150px;
+
+}
+
+.box-1{
+    color:rgb(231, 231, 231);
+    background-color:rgb(58, 57, 57)
+}
+
+
+
+.list{
+   
+    color:rgb(204, 201, 201);
+    background-color:rgb(99, 96, 96);
+}
+.title{
+    margin-left:300px;
+    color:rgb(61, 60, 60);
+    font: bold 50px Arial, Helvetica, sans-serif;
+}
