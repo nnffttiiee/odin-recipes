@@ -28,7 +28,7 @@ body{
 }
 .title{
   
-    margin-left:125px;
+    margin-left:600px;
    
     color:rgb(61, 60, 60);
     font: bold 50px Arial, Helvetica, sans-serif;
@@ -38,6 +38,7 @@ img{
     width:300px;
     height:auto;
     margin-left:75px;
+    padding: 25px;
 }
 
 .list .link {
@@ -46,8 +47,8 @@ img{
 
 .banner{
     height: 150px;
-    width: 1000px;
-    margin-left:-125px;
+    width: 1500px;
+    margin-left: -25px;
     margin-top:-175px;
 }
 
@@ -58,5 +59,8 @@ img{
     font-display: em;
 }
 .float{
-    float:right;
+    float:mid-right;
+}
+.home {
+    float:left;
 }
